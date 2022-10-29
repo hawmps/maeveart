@@ -9,6 +9,6 @@ weight = 0
 
 An eyeball in a pair of lips. Halloween challenge 2022
 <!--more-->
-![halloween](img/portfolio/halloweenlips.png)
+![halloween](/img/portfolio/halloweenlips.png)
 Maeve needs to add some text here!
 

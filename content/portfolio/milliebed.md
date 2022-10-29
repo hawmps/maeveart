@@ -9,6 +9,6 @@ weight = 0
 
 Millie asleep
 <!--more-->
-![milliebed](Millie in Bed)
+![milliebed](/img/portfolio/milliebed.png)
 Maeve needs to add some text here!
 

@@ -1,6 +1,6 @@
 
 
-baseurl = "https://example.org/"
+baseurl = "https://art.60woodvale.com/"
 title = "Maeve's Awesome Art"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -12,35 +12,13 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "blue"
+  style = "violet"
   description = "The most incredible pictures you will ever see"
   copyright = "&copy;2022  MGBOOS"
   sidebarAbout = [
-    "I am a creative artist and graphic designer with 8 years of experience.",
-    "From the worlds greatest city"
+    "I want to be an artist"
+    ![Lavender](/img/portfolio/lavender.jpeg)
   ]
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "mgboos22@gmail.com"
-
-    # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
-      #  ID = "42"
-      #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
-      #  # Optional integrity check hash
-      #  hash = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -52,11 +30,6 @@ googleAnalytics = ""
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
-
   [params.social]
 
-  email         = "email@example.com"
 

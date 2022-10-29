@@ -14,6 +14,6 @@ weight = 0
 
 I challenged myself to draw some eyes with my left and right hands
 <!--more-->
-![foo](/img/portfolio/eyechallenge.png)
+![Eye challenge](/img/portfolio/eyechallenge.png)
 
 Maeve needs to add some text here!

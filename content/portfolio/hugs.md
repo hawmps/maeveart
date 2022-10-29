@@ -9,6 +9,6 @@ weight = 0
 
 A picture from when I was younger
 <!--more-->
-![hugs](img/portfolio/huggies.png)
+![hugs](/img/portfolio/huggies.png)
 Maeve needs to add some text here!
 
