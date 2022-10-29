@@ -9,6 +9,6 @@ weight = 0
 
 A Lip study
 <!--more-->
-![lips](img/portfolio/lips.png)
+![lips](/img/portfolio/lips.png)
 Maeve needs to add some text here!
 
