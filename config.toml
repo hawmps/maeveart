@@ -16,8 +16,8 @@ googleAnalytics = ""
   description = "The most incredible pictures you will ever see"
   copyright = "&copy;2022  MGBOOS"
   sidebarAbout = [
-    "I want to be an artist"
-    ![Lavender](/img/portfolio/lavender.jpeg)
+    "I want to be an artist",
+    "![Lavender](/img/portfolio/lavender.jpeg)"
   ]
 
   # Nav links in the side bar
